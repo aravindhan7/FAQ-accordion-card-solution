@@ -16,7 +16,7 @@ This is a solution to the [FAQ accordion card solution challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [https://github.com/aravindhan7/Stats-preview-card-components]
+- Solution URL: [https://github.com/aravindhan7/FAQ-accordion-card-solution]
 - Live Site URL: [https://aravindhan7.github.io/Stats-preview-card-components/]
 
 
